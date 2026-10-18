@@ -1,7 +1,0 @@
-ssh:22
-https:443
-
-upper:65535
-broken
-web:abc
-too_high:65536
